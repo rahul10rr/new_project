@@ -1,3 +1,4 @@
 # new_project
-This i smy repository
+This is my repository
+<br>
 Author - RR
